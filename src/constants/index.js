@@ -28,7 +28,7 @@ export const clientReviews = [
     position: 'Marketing Director at GreenLeaf',
     img: 'assets/review1.png',
     review:
-      'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Alex was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ export const clientReviews = [
     position: 'Founder of TechGear Shop',
     img: 'assets/review2.png',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Alex’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const clientReviews = [
     position: 'Project Manager at UrbanTech ',
     img: 'assets/review3.png',
     review:
-      'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+      'I can’t say enough good things about Alex. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
   },
   {
     id: 4,
@@ -52,7 +52,7 @@ export const clientReviews = [
     position: 'CEO of BrightStar Enterprises',
     img: 'assets/review4.png',
     review:
-      'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+      'Alex was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
   },
 ];
 
@@ -132,7 +132,7 @@ export const myProjects = [
     ],
   },
   {
-    title: 'CarePulse - Health Management System',
+    title: 'Medicare - Health Management System',
     desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
     subdesc:
       'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
@@ -171,7 +171,7 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Horizon - Online Banking Platform',
+    title: 'Horizons - Online Banking Platform',
     desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
     subdesc:
       'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
@@ -208,7 +208,7 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Imaginify - AI Photo Manipulation App',
+    title: 'ImaginMe - AI Photo Manipulation App',
     desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
     subdesc:
       'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
@@ -259,22 +259,22 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 
 export const workExperiences = [
   {
-    id: 1,
-    name: 'Framer',
-    pos: 'Lead Web Developer',
-    duration: '2022 - Present',
-    title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
-    icon: '/assets/framer.svg',
-    animation: 'victory',
+    id: 2,
+    name: 'Coded Alex',
+    pos: 'Founder & CEO',
+    duration: '2023 - Present',
+    title: "Coded Alex is a digital development agency that specializes in creating custom web and mobile applications, offering full-stack development, branding, and innovative digital solutions. Their mission is to deliver high-quality, user-centric services tailored to client needs, driving growth and digital transformation.",
+    icon: '/assets/Coded Alex icon.png',
+    animation: 'clapping',
   },
   {
-    id: 2,
-    name: 'Figma',
-    pos: 'Web Developer',
-    duration: '2020 - 2022',
-    title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
-    icon: '/assets/figma.svg',
-    animation: 'clapping',
+    id: 1,
+    name: 'Credible Hats',
+    pos: 'Lead Web Developer',
+    duration: '2022 - Present',
+    title: "Credible Hats is a company based in Nairobi, Kenya, specializing in high-quality headwear and other fashion items",
+    icon: '/assets/ch. icon.png',
+    animation: 'victory',
   },
   {
     id: 3,

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import emailjs from '@emailjs/browser';
 import { useRef, useState } from 'react';
 
@@ -26,9 +27,9 @@ const Contact = () => {
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
-          to_name: 'JavaScript Mastery',
+          to_name: 'Alex Mutonga',
           from_email: form.email,
-          to_email: 'sujata@jsmastery.pro',
+          to_email: 'official@alexmutonga.com',
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY,

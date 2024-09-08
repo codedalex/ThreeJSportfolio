@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
-      <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
+      <img src="public/assets/github banner.png" alt="Project Banner">
     </a>
   <br />
 
@@ -31,7 +31,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -74,7 +74,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Fully Responsive**: Optimized layout ensuring a smooth experience across all devices, from desktop to mobile.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -108,9 +108,9 @@ npm install
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
-REACT_APP_EMAILJS_USERID=your_emailjs_user_id
-REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
-REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
+VITE_APP_EMAILJS_PUBLIC_KEY=your_emailjs_public_key
+VITE_APP_EMAILJS_TEMPLATE_ID=your_emailjs_template_id
+VITE_APP_EMAILJS_SERVICE_ID=your_emailjs_service_id
 ```
 
 Replace the placeholder values with your actual EmailJS credentials. You can obtain these credentials by signing up on the [EmailJS website](https://www.emailjs.com/).
@@ -404,7 +404,7 @@ export const clientReviews = [
     position: 'Marketing Director at GreenLeaf',
     img: 'assets/review1.png',
     review:
-      'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+      'Working with Alex was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
   },
   {
     id: 2,
@@ -412,7 +412,7 @@ export const clientReviews = [
     position: 'Founder of TechGear Shop',
     img: 'assets/review2.png',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Alex’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
   },
   {
     id: 3,
@@ -420,7 +420,7 @@ export const clientReviews = [
     position: 'Project Manager at UrbanTech ',
     img: 'assets/review3.png',
     review:
-      'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+      'I can’t say enough good things about Alex. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
   },
   {
     id: 4,
@@ -428,7 +428,7 @@ export const clientReviews = [
     position: 'CEO of BrightStar Enterprises',
     img: 'assets/review4.png',
     review:
-      'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+      'Alex was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
   },
 ];
 
@@ -866,7 +866,6 @@ Here is the list of all the resources used in the project video:
 - [ReadyPlayerMe](https://readyplayer.me/)
 - [Mixamo](https://www.mixamo.com/)
 - [FBX Animations ZIP](https://drive.google.com/file/d/1yQhrRvEQFEwxbjG2qelv_T-gAatXJ3N1/view?usp=sharing)
-
 
 ## <a name="assets">🔗 Assets</a>
 
