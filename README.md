@@ -14,7 +14,7 @@
   <h3 align="center">A 3D Dev Portfolio</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!!
+     Build this project step by step with our detailed Documentation on <a href="https://www.codedalex.com/our-projects" target="_blank"><b>Coded Alex</b></a> Website. Join the Coding family!!
     </div>
 </div>
 
@@ -29,13 +29,13 @@
 7. 📦 [Assets](#assets)
 8. 🚀 [More](#more)
 
-## 🚨 Tutorial
+## 🚨 Documentation
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code corresponding to an in-depth documentation available on our Official Site, <a href="https://www.codedalex.com/our-projects" target="_blank"><b>Coded Alex</b></a>.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+If you prefer documented learning, this is the perfect resource for you. Follow our step by step documentation to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/kt0FrkQgw8w" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/kt0FrkQgw8w" target="_blank"><img src="public/assets/read documentation.svg" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -91,8 +91,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/threejscc-portfolio.git
-cd threejscc-portfolio
+git clone https://github.com/codedalex/ThreeJSportfolio.git
+cd ThreeJSportfolio
 ```
 
 **Installation**
@@ -873,23 +873,23 @@ Models and Assets used in the project can be found [here](https://drive.google.c
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js 14 Pro Course**
+### Enjoyed building this project and would like us to collaborate?
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+Enjoyed creating this project? We're always on the lookout for exciting collaborations! Whether you're looking to contribute, work together on future projects, or have ideas to share, let's connect and create something amazing together. Reach out to us via the link below, and let's explore how we can collaborate on innovative solutions.
 
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
+<a href="https://codedalex.com/contact-us" target="_blank">
+<img src="public/assets/Next Project.png" alt="Project Banner">
 </a>
 
 <br />
 <br />
 
-**Accelerate your professional journey with the Expert Training program**
+### Stay updated with our latest projects!
 
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
+Don't miss out on any of the cool new projects we roll out! Sign up for our newsletter to be the first to know when we drop fresh tutorials, innovative projects, and exclusive content. Stay in the loop and keep leveling up your skills by joining our community.
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
+<a href="https://www.codedalex.com/newsletter" target="_blank">
+<img src="public/assets/collaboration.png" alt="Project Banner">
 </a>
 
 #
